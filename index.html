@@ -52,7 +52,11 @@
             position: fixed;
             top: 0;
             width: 100%;
-            background: linear-gradient(to right, rgba(255, 255, 255, 0.98) 0%, rgba(52, 73, 94, 0.98) 100%);
+            background: linear-gradient(to right, 
+                rgba(255, 255, 255, 1) 0%, 
+                rgba(255, 255, 255, 1) 33%, 
+                rgba(52, 73, 94, 0.98) 67%, 
+                rgba(30, 40, 50, 1) 100%);
             backdrop-filter: blur(10px);
             padding: 1rem 5%;
             z-index: 1000;
@@ -81,14 +85,13 @@
         }
 
         .nav-links a {
-            color: #2c3e50;
+            color: white;
             text-decoration: none;
             font-weight: 600;
             font-size: 1.1rem;
             transition: all 0.3s;
             position: relative;
             padding: 8px 0;
-            text-shadow: 0 0 2px rgba(255,255,255,0.5);
         }
 
         .nav-links a::after {
@@ -207,6 +210,7 @@
         /* About Section */
         #nosotros {
             background: white;
+            padding: 80px 5% !important;
         }
 
         .about-content {
@@ -249,8 +253,8 @@
         /* Stats Counter */
         .stats-section {
             background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
-            padding: 60px 5%;
-            margin-top: 60px;
+            padding: 40px 5%;
+            margin-top: 0;
         }
 
         .stats-grid {
@@ -1122,10 +1126,10 @@
         window.addEventListener('scroll', function() {
             const nav = document.querySelector('nav');
             if (window.scrollY > 100) {
-                nav.style.background = 'linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(44, 62, 80, 1) 100%)';
+                nav.style.background = 'linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 33%, rgba(44, 62, 80, 1) 67%, rgba(25, 35, 45, 1) 100%)';
                 nav.style.boxShadow = '0 5px 30px rgba(0,0,0,0.5)';
             } else {
-                nav.style.background = 'linear-gradient(to right, rgba(255, 255, 255, 0.98) 0%, rgba(52, 73, 94, 0.98) 100%)';
+                nav.style.background = 'linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 33%, rgba(52, 73, 94, 0.98) 67%, rgba(30, 40, 50, 1) 100%)';
                 nav.style.boxShadow = '0 5px 20px rgba(0,0,0,0.3)';
             }
         });
