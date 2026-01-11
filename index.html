@@ -1266,15 +1266,6 @@
             }, 500);
         });
 
-        // Parallax Effect on Video
-        window.addEventListener('scroll', function() {
-            const scrolled = window.pageYOffset;
-            const videoBackground = document.querySelector('.video-background');
-            if (videoBackground) {
-                videoBackground.style.transform = `translateY(${scrolled * 0.5}px)`;
-            }
-        });
-
         // Initialize AOS
         AOS.init({
             duration: 1200,
