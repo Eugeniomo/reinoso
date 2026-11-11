@@ -1,0 +1,83 @@
+Estimado Gonzalo:
+
+Junto con saludar, y en relación con la solicitud de cotización de Pavimentación y Aguas Lluvias del proyecto Lo Recabarren, les enviamos las consultas que surgieron de la revisión de los antecedentes que nos enviaron.
+
+1. Aprobación del proyecto. Las 15 láminas corresponden a la revisión 1, de septiembre de 2025, emitida para aprobación del SERVIU. Les agradeceríamos indicar si el proyecto ya cuenta con la aprobación del Servicio de Vivienda y Urbanización (SERVIU) o si el trámite sigue en curso.
+
+2. Versión vigente de los archivos. Para asegurar que cotizamos sobre la versión vigente, quisiéramos confirmar qué archivo rige para cada especialidad. En el DWG de pavimentación, el colector 15 descarga a una cámara de inspección existente y a un colector existente de D=500 mm, y en el DWG de aguas lluvias descarga a la zanja de infiltración N°8. La memoria considera para ese colector un tramo de 25,6 m en DN375 y otro de 39,0 m en DN400.
+
+Les agradeceríamos indicar qué archivo rige para pavimentos y cuál para aguas lluvias, y si la memoria corresponde a la versión vigente. Si se mantiene el tramo en DN400, ¿en qué ítem se considera? Si les resulta más simple, pueden enviarnos una versión única vigente.
+
+3. Servicios existentes. Las láminas muestran instalaciones existentes cercanas a las obras: un colector de aguas lluvias de D=500 mm, una tubería de 300 mm, un pozo y cámaras de alcantarillado, y redes de agua potable, electricidad y teléfonos. Les agradeceríamos enviarnos el catastro de servicios con que cuente el mandante, con sus cotas si las tiene.
+
+4. Movimiento de tierra. En el perfil longitudinal de las láminas 5/10 y 6/10, la rasante queda 1,31 m bajo el terreno en el Km 0+600 y 0,41 m sobre él en el Km 0+400. Para valorizar el corte y el relleno, les agradeceríamos enviarnos los perfiles transversales o la cubicación de tierra, si se dispone de ellos, e indicarnos si el material de corte puede usarse en los terraplenes.
+
+5. Demoliciones y retiros. Los ítems 2.1.6 a 2.1.14 y 2.1.31 consideran cercos, rejas, pircas, muros y recintos. ¿Podrían enviarnos el catastro de demoliciones con sus cantidades?
+
+6. Calzada a demoler. Los 1.939,8 m2 del ítem 2.1.2 están rotulados en planta como calzada HCV, y la simbología de las láminas 1/10 y 2/10 menciona calzada de hormigón y calzada asfáltica.
+
+Quisiéramos confirmar el material y el espesor de cada sector, y si la demolición de calzada (2.1.2) y la de veredas (2.1.1) incluyen la base existente.
+
+Pavimentación
+
+7. Espesor de base. La memoria indica una base de 15 cm en los accesos, y el corte tipo de acceso de la lámina 8/10 indica una base granular de 0,30 m, igual que el corte 1-1 bajo la calzada de 6,50 m, en un tramo de unos 155 m.
+
+Les agradeceríamos confirmar qué espesor rige en cada caso y entre qué estaciones se aplica el del corte 1-1.
+
+8. Grado del hormigón en la banda de estacionamiento. El corte 6-6 de la lámina 8/10 indica HCV G35 para la banda de estacionamiento. Les agradeceríamos confirmar si el grado que rige es G35 o el G30 del ítem 2.3.8.
+
+9. Bandejón y franjas. Los cortes de la lámina 8/10 muestran bandejones de 3,00 a 3,50 m y franjas sin pavimento de 1,00 a 1,30 m, que llegan a 3,00 m en el corte 5-5 y a 5,70 m en el corte 4-4. Les agradeceríamos confirmar si el bandejón y las franjas, con su relleno, tierra vegetal o paisajismo, forman parte de esta partida, y si le corresponde rellenar los 644,6 m2 de superficie demolida que no se vuelven a pavimentar.
+
+10. Dispositivos de rodado y resaltos. Hay 29 accesos vehiculares, con 1.107,5 m2 de pavimento HCV, y el itemizado considera cuatro tipos de dispositivo de rodado (2.3.11 a 2.3.14). Les agradeceríamos indicar cuántos dispositivos corresponden a cada tipo y si su precio incluye el pavimento y la base, o si estos se consideran en los ítems de calzada (2.3.5) y de base (2.3.6 o 2.3.7). Quisiéramos saber también cuántos resaltos como el de la lámina 10/10 considera la partida.
+
+11. Juntas y empalmes. La lámina 10/10 indica barras con resalte Ø12 de 650 mm cada 750 mm en la junta longitudinal, ancladas con Sikadur 32 o similar en perforaciones en el pavimento existente. Quisiéramos confirmar en qué ítem se considera el corte y sello de juntas, si la perforación y el adhesivo se incluyen en el ítem 2.3.18 y en qué ítem se considera la reposición de losas, soleras o veredas existentes que resulten afectadas en los empalmes con Av. Santa María y Av. Agua del Palo.
+
+12. Notas de la lámina 9/10. Las notas de esta lámina asignan al contratista algunas obligaciones cuyo tratamiento quisiéramos confirmar: los costos de modificar o trasladar redes de servicios no integradas al proyecto; las autorizaciones, aprobaciones, inspecciones y recepciones de las compañías de servicios; el rediseño de la estructura de pavimento si el CBR real difiere del 12 % de diseño, y el reemplazo del suelo natural por subbase granular si la subrasante tiene suelos orgánicos o arcillas expansivas, si no alcanza el 95 % del Proctor modificado o si la base no llega a un CBR de 60 %. Para cada una, les agradeceríamos indicar si la asume Demetra, si se paga con un precio unitario adicional, por ejemplo por m3 de reemplazo de suelo con el espesor que debamos considerar, o si corresponde dejarla como exclusión de la oferta.
+
+Aguas lluvias
+
+13. Largo de colectores DN375. Les agradeceríamos confirmar qué largo considerar para el colector DN375, 899 m según el cuadro de cañerías o 863,2 m según los perfiles.
+
+14. Cámaras decantadoras. Los planos muestran 8 cámaras decantadoras, una por zanja, y la lámina 5/5 detalla los sumideros S-2 y las baterías con cámara decantadora.
+
+Les agradeceríamos confirmar a qué cámaras corresponde el ítem 2.4.1, cámara de inspección con decantador, y si la cámara decantadora de cada sumidero está incluida en los ítems 2.4.6 y 2.4.29.
+
+15. Zanjas de infiltración N°7 y N°8. La memoria considera la zanja N°7 con 29,4 m de largo, 0,8 m de ancho y 3,6 m de profundidad, y la lámina 2/5 la rotula con 25,8 m, 2,05 m y 3,60 m, con 1.720 cajas. En planta, las zanjas 7 y 8 tienen 1,64 m de ancho. Para cotizar sobre la versión vigente, ¿podrían confirmarnos qué dimensiones rigen para las zanjas N°7 y N°8?
+
+16. Relleno de zanjas de colectores. La sección típica de tubería HDPE de la lámina 5/5 considera, hasta 20 cm sobre el tubo, un relleno estructurante de suelo clase II o clase III, y según el itemizado el relleno estructural (2.4.5) va incluido en el relleno con material de excavación (2.4.22), para los 899 m de DN375 y los 385 m de DN300. Les agradeceríamos indicar en qué ítem y con qué unidad se considera el relleno estructurante cuando el material de excavación no cumpla y deba ser de empréstito.
+
+17. Contenido del precio de cada zanja de infiltración. El itemizado mide las zanjas como global en los ítems 2.4.10 a 2.4.16 y por número en el ítem 2.4.25, y la lámina 4/5 ubica una cámara repartidora a la entrada del sistema, detallada en la lámina 5/5. Les agradeceríamos confirmar si el precio de cada zanja incluye la reposición del área verde sobre ella y la cámara repartidora, y cuántas cámaras repartidoras son.
+
+18. Sistema de infiltración. La lámina 4/5 menciona el estanque de drenaje Atlantis, con resistencia mínima de 26 t/m2, en los cortes de las zanjas, y el sistema de drenaje Hidrocelda en la planta, y señala que las dimensiones de los módulos pueden variar según el fabricante.
+
+¿Podrían confirmar qué sistema rige y si se aceptan equivalentes? En ese caso, quisiéramos saber si debe respetarse el número de cajas de cada zanja, 9.745 en total, o su volumen útil.
+
+19. Entibaciones. Las zanjas de infiltración se excavan a al menos 4,30 m, y a 4,75 m en la N°1, y las decantadoras llegan a 3,48 m. Les agradeceríamos indicar cómo se mide y paga el ítem 2.5.3, cuya unidad es el mes: por número de meses, por metros entibados o según el equipo considerado.
+
+20. Cálculo estructural de cámaras. Una nota de la lámina 5/5 señala que el plano considera formas y dimensiones útiles y que se complementa con los cálculos estructurales correspondientes.
+
+Quisiéramos saber si el mandante entregará ese cálculo, con las armaduras de las cámaras, de las decantadoras de hasta 3,48 m de altura y de la cámara repartidora, o si debemos incluir su desarrollo y aprobación en la oferta.
+
+Alcance e itemizado
+
+21. Proyecto SERVIU 63023. Las intersecciones con Av. Santa María y Av. Agua del Palo aparecen según el proyecto SERVIU 63023. Entendemos que esas obras, del orden de 194 m2 de calzada HCV, 38 a 40 m2 de vereda, 8,3 m2 de baldosa, 63,8 m de solera tipo A, 10,6 m de solera tipo C, 24,1 m2 de demolición y una ciclovía de unos 376 m2, quedan fuera de esta partida.
+
+Les agradeceríamos confirmar ese entendimiento e indicar dónde termina el pavimento de esta partida. Si esas obras estuvieran incluidas, ¿podrían enviarnos sus cantidades?
+
+22. Luminarias y postes. El itemizado considera trasladar 7 luminarias (2.1.29) y 1 poste de fierro, y retirar 1 poste de madera con luminaria. ¿Incluye el traslado la fundación, la canalización, el cableado y la reconexión? Les agradeceríamos indicar también si los cargos de la distribuidora eléctrica y de la Municipalidad de Vitacura son de cargo de Demetra, y si existe un proyecto de alumbrado que debamos considerar.
+
+Oferta y condiciones de ejecución
+
+23. Fecha de cierre. Les agradeceríamos confirmarnos la fecha de cierre para la recepción de la oferta, de modo de organizar nuestro trabajo y hacérsela llegar a tiempo.
+
+24. Modalidad del contrato. ¿Será el contrato a suma alzada sobre las cantidades de la oferta o a precios unitarios, con pago de las cantidades realmente ejecutadas?
+
+25. Mecánica de suelos e infiltración. Según el capítulo 4 de la memoria, el CBR de diseño de 12 % proviene del informe de mecánica de suelos; la lámina 9/10 relaciona la estructura con el CBR real y las condiciones de la subrasante, y el diseño de aguas lluvias considera que no hay napa freática y una capacidad de infiltración de 70 mm/h. Les agradeceríamos enviarnos ese informe o, al menos, la ubicación y la estratigrafía de las calicatas y la profundidad de la napa, e indicarnos si se exigirá un ensayo de infiltración antes de construir las zanjas.
+
+26. Inicio y entrega del terreno. Quisiéramos conocer la fecha estimada de inicio de la partida y saber si la faja de la obra se entregará completa, con los predios desocupados y las cesiones resueltas, o por tramos, y en ese caso con qué fechas. Respecto de la casa principal y la casa secundaria de los ítems 2.1.7 y 2.1.31, les agradeceríamos indicar si hay antecedentes de materiales con asbesto que requieran retiro especial.
+
+Para las consultas que no alcancen a tener respuesta antes del cierre, indicaremos en la oferta el supuesto considerado, y adjuntaremos las respuestas recibidas, de modo que ambas partes trabajemos sobre la misma base. Quedamos atentos a sus comentarios y agradecidos de su disposición.
+
+Saludos cordiales,
+Fabián Reinoso
+Reinoso Constructora
